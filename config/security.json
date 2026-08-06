@@ -1,0 +1,10 @@
+{
+  "authentication": {
+    "session_timeout_minutes": 30,
+    "max_login_attempts": 5
+  },
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "key_rotation_days": 90
+  }
+}
